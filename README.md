@@ -49,7 +49,7 @@
 - [Note Taking](#note-taking)
 - [Utility](#utility)
   - [CSV Files](#csv-files)
-  - [LazyDevHelper](https://github.com/Silletr/LazyDevHelper)
+  - [LazyDevHelper](https://github.com/Silletr/LazyDevHelper) - Python dependency manager that installs packages directly from Neovim.
 - [Terminal Integration](#terminal-integration)
 - [Debugging](#debugging)
   - [Quickfix](#quickfix)
